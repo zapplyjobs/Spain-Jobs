@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Spain Jobs](https://img.shields.io/badge/Spain_Jobs-1097-brightgreen?style=flat&logo=briefcase)
-![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-729-informational?style=flat&logo=briefcase)
+![Spain Jobs](https://img.shields.io/badge/Spain_Jobs-1099-brightgreen?style=flat&logo=briefcase)
+![Top: Other Tech Roles](https://img.shields.io/badge/Other_Tech_Roles-730-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-118-blue?style=flat&logo=building)
 ![Last Update](https://img.shields.io/github/last-commit/zapplyjobs/Spain-Jobs?style=flat&logo=calendar)
 
@@ -70,9 +70,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Veolia Environnement SA** | TÉCNICO/A INFORMÁTICO PROGRAMADOR DE SISTEMAS DE CONTROL Y AUTOMATIZACIÓN | Barcelona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000126082629) |
-| **Sopra Steria** | Dynamics 365 CRM Developer (100% remote within Spain) | Barcelona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000020416860) |
-| **Sopra Steria** | DevOps Engineer (English is a MUST) | Barcelona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000060310415) |
-| **Sopra Steria** | Backend Microservicios con Inglés | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000112649865) |
+| **Sopra Steria** | Dynamics 365 CRM Developer (100% remote within Spain) | Barcelona, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000020416860) |
+| **Sopra Steria** | DevOps Engineer (English is a MUST) | Barcelona, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000060310415) |
+| **Sopra Steria** | Analista Programador/a Powerbuilder - Inglés B2 | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000113532557) |
 | **Eurofins** | Cybersecurity Architecture Specialist | Barcelona, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000144470009) |
 | **Palantir** | Forward Deployed Software Engineer - Spain | Madrid | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/53fb4c05-f949-4146-a046-5c063c36a628) |
 | **ElevenLabs** | Forward Deployed Engineer - Software Engineer - Spain | Spain | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d) |
@@ -114,7 +114,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Bosch Group** | Estudiantes en prácticas – departamento de BMG-2ES/ENG2 Engineering Electrical and Software Systems | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/743999906173083) |
+| **Bosch Group** | Estudiantes en prácticas – departamento de BMG-2ES/ENG2 Engineering Electrical and Software Systems | Madrid, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/743999906173083) |
 | **FLIR Systems** | FPGA Design Engineer | Spain- Sevilla, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/Spain--Sevilla-TDY/FPGA-Design-Engineer_REQ35591) |
 | **Abbott** | Technical Validation Intern - ANS - Granada | Spain - Granada, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Spain---Granada/Technical-Validation-Intern---ANS---Granada_31155377) |
 
@@ -130,9 +130,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Eurofins** | Business Data Analyst - Lab process reengineering. | Murcia, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999679508335) |
 | **Experian** | Data Scientist | Granada, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Experian/744000136823669) |
-| **Veeva Systems** | Master Class - Business Consultant - Life Sciences Analytics (Spain) | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/3977211b-fd9c-4511-940c-a7ddb9264727) |
-| **Veeva Systems** | Associate Business Consultant - Life Sciences Analytics | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/e0911cd8-1ed8-4313-89ac-05034096a634) |
-| **PricewaterhouseCoopers** | Beca en Ciencias Actuariales 2027 (FY28) | Madrid, ES | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Madrid/Beca-en-Ciencias-Actuariales-2027--FY28-_760438WD) |
+| **Veeva Systems** | Master Class - Business Consultant - Life Sciences Analytics (Spain) | Spain - Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/3977211b-fd9c-4511-940c-a7ddb9264727) |
+| **Veeva Systems** | Associate Business Consultant - Life Sciences Analytics | Spain - Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/e0911cd8-1ed8-4313-89ac-05034096a634) |
+| **PricewaterhouseCoopers** | Beca en Ciencias Actuariales 2027 (FY28) | Madrid, ES | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Madrid/Beca-en-Ciencias-Actuariales-2027--FY28-_760438WD) |
 | **HP Inc** | Data Analyst Intern | Sant Cugat del Valles | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI3248-1) |
 | **Dexcom** | Commercial Analytics & Operations Associate | Madrid | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Madrid-Spain/Commercial-Analytics---Operations-Associate_JR120714-1) |
 | **TD Synnex** | Customer Growth & Strategy Analyst | Barcelona Spain, ES +2 more | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Barcelona-Spain/Customer-Growth---Strategy-Analyst_R54266-1) |
@@ -155,19 +155,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veolia Environnement SA** | Técnico/a de Mantenimiento para Plantas Fotovoltaicas | Murcia, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000075169364) |
 | **Veolia Environnement SA** | Técnico/a de Mantenimiento para Plantas Fotovoltaicas | murcia, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000075168850) |
 | **NBCUniversal** | Finance Trainee | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000143285424) |
+| **HP Inc** | AI Creative, Content & GEO Specialist | Sant Cugat del Valles | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Creative--Content---GEO-Specialist_3167450-2) |
 | **Eurofins** | ELECTRIC/ELECTRONIC REGULATORY AFFAIRS TECHNICIAN | Barcelona, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000119538517) |
 | **Eurofins** | Técnico Superior en Calidad del Aire Interior (TSCAI) – HACAI | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000122621462) |
-| **HP Inc** | AI Creative, Content & GEO Specialist | Sant Cugat del Valles | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Creative--Content---GEO-Specialist_3167450-2) |
 | **Eurofins** | Enfermeras/os división Clinical Diagnostic Spain | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000136498832) |
-| **Bosch Group** | Prácticas: Departamento de Ingeniería de Producción (MSS2-I) - Producción de sensores de airbag... | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000038252816) |
-| **Veeva Systems** | Master Class - Business Consultant - Life Sciences Commercial (Spain) | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/ef37b1cb-51a1-415c-8a96-21a522a76143) |
-| **Veeva Systems** | Master Class - Business Consultant - Life Sciences Content (Spain) | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/5966de79-bf7e-4f8e-8986-11b25b9dfdda) |
-| **Veeva Systems** | Master Class - Business Consultant - Life Sciences Quality (Spain) | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/6ff0d4d8-0c30-4c47-b3fa-8667f87f314f) |
-| **ClickHouse** | Solutions Architect - Spain | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/clickhouse/02e6d921-227f-4f72-b1b6-495e091297e6) |
+| **Bosch Group** | Prácticas: Departamento de Ingeniería de Producción (MSS2-I) - Producción de sensores de airbag... | Madrid, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000038252816) |
+| **ClickHouse** | Solutions Architect - Spain | Spain | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/clickhouse/02e6d921-227f-4f72-b1b6-495e091297e6) |
+| **Veeva Systems** | Master Class - Business Consultant - Life Sciences Commercial (Spain) | Spain - Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/ef37b1cb-51a1-415c-8a96-21a522a76143) |
+| **Veeva Systems** | Master Class - Business Consultant - Life Sciences Content (Spain) | Spain - Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/5966de79-bf7e-4f8e-8986-11b25b9dfdda) |
+| **Veeva Systems** | Master Class - Business Consultant - Life Sciences Quality (Spain) | Spain - Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/6ff0d4d8-0c30-4c47-b3fa-8667f87f314f) |
 | **Palantir** | Deployment Strategist - Spain | Madrid | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/palantir/1f007e36-a620-4d15-bf0b-70dc3f3439d8) |
 | **ElevenLabs** | Enterprise Solutions Engineer - Spain | Spain | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234) |
 | **ElevenLabs** | Deployment Strategist - Spain | Spain | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd) |
-| **Celonis** | Associate Applied (AI) Value Engineer (Japan) - Orbit Program | Madrid | 38m | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7786762003?gh_jid=7786762003) |
+| **Celonis** | Associate Applied (AI) Value Engineer (Japan) - Orbit Program | Madrid | 49m | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7786762003?gh_jid=7786762003) |
 | **WPP Media** | Paid Social Executive | Madrid | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/wppmedia/jobs/5415091008) |
 | **KBR** | UABOS Spain: War Reserve Material (WRM) Corrosion Control Specialist / Welder (AGE) | Spain | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Spain/War-Reserve-Material--WRM--Corrosion-Control-Specialist---Welder--AGE-_R2129476) |
 | **KBR** | UABOS Spain: Quality Assurance Technician (AGE) | Spain | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Spain/Quality-Assurance-Technician--AGE-_R2129477) |
@@ -189,9 +189,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Agilent Technologies** | Graduate Field Service Engineer for Chromatography -LC/GC-Catalonia -Spain | Spain-Remote Location-Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/Spain-Remote-Location-Barcelona/FSE-campus_4036826) |
 | **Thales** | Beca Supply Chain | Madrid, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/Beca-Supply-Chain_R0336165-1) |
 | **Johnson Controls** | Coordinador/a Instalaciones Retail I - Temp | Las Rozas-Madrid-Spain, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Las-Rozas-Madrid-Spain/Coordinador-Instalaciones-Retail-I---Temp_WD30279014) |
+| **GE Vernova** | Supply Chain Intern | Zamudio, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Zamudio/Supply-Chain-Intern_R5051702-2) |
 | **HPE** | Managed Services Manager Spain | Las Rozas | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Las-Rozas-Madrid-Spain/Managed-Services-Manager-Spain_1210727-1) |
 | **Johnson & Johnson** | HEMA EMEA EP Trainee | Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Madrid-Spain/HEMA-EMEA-EP-Trainee_R-096174) |
-| **GE Vernova** | Supply Chain Intern | Zamudio, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Zamudio/Supply-Chain-Intern_R5051702-2) |
 | **Dow Jones** | AI Engineer | Spain - Barcelona, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Spain---Barcelona/AI-Solutions-Specialist_Job_Req_54316) |
 | **Johnson Controls** | Coordinador/a Instalaciones Retail II - Temp | Las Rozas-Madrid-Spain, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Las-Rozas-Madrid-Spain/Coordinador-a-Instalaciones-Retail-II---Temp_WD30279015-1) |
 | **Stanley Black & Decker** | Trade Marketing Trainee | Bergueda | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Bergueda-Catalonia-Spain/Trade-Marketing-Trainee_REQ-1000050967) |
@@ -223,16 +223,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veolia Environnement SA** | Técnico/a de mantenimiento - Fontanero/a | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000032415683) |
 | **Veolia Environnement SA** | Técnico/a de Mantenimiento - Calderas Industriales | Parada de Arriba, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000023122543) |
 | **Veolia Environnement SA** | Tecnico/a de mantenimiento de instalaciones Teruel | Teruel, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000018943205) |
-| **Sopra Steria** | Agente de Soporte de Aplicaciones N1 | Barcelona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000095931755) |
-| **Sopra Steria** | Ingeniero/a Soporte Funcional Eléctrico con inglés alto | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000133009005) |
-| **Sopra Steria** | Consultor Técnico Junior | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000137408499) |
+| **Sopra Steria** | Agente de Soporte de Aplicaciones N1 | Barcelona, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000095931755) |
+| **Sopra Steria** | Ingeniero/a Soporte Funcional Eléctrico con inglés alto | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000133009005) |
+| **Sopra Steria** | V.I.E Ingénieur en Support Fonctionnel Electrique | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000136221990) |
 | **Eurofins** | Prácticas - Técnico de laboratorio | Elche Parque Industrial, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999802274349) |
 | **Eurofins** | Técnico de laboratorio | Elche, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999758664236) |
 | **Eurofins** | Técnico de certificación | Elche, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999733853256) |
-| **Bosch Group** | Técnico en Ingeniería de procesos | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000130841037) |
-| **Bosch Group** | Prácticas en Mejora Continua y Operaciones (MOE) | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000136486586) |
-| **Veeva Systems** | Process Expert Data Operations | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/0d70d80f-3edc-409c-9d21-7c3ffafd1f9e) |
-| **Veeva Systems** | Consultant - Clinical Operations (Remote - Europe) | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/6681d1a0-d900-4a37-bc04-64de76af6370) |
+| **Bosch Group** | Técnico en Ingeniería de procesos | Madrid, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000130841037) |
+| **Bosch Group** | Prácticas en Mejora Continua y Operaciones (MOE) | Madrid, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000136486586) |
+| **Veeva Systems** | Process Expert Data Operations | Spain - Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/0d70d80f-3edc-409c-9d21-7c3ffafd1f9e) |
+| **Veeva Systems** | Consultant - Clinical Operations (Remote - Europe) | Spain - Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/6681d1a0-d900-4a37-bc04-64de76af6370) |
 | **Bosch Group** | Customer Support Agent - DUTCH - Emergency Response for Premium Customers (39h.) | Barcelona, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000145519899) |
 | **HP Inc** | IT Project Manager - Customer Support Digital & Data Transformation | Sant Cugat del Valles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/IT-Project-Manager---Customer-Support-Digital---Data-Transformation_3167657-1) |
 | **Johnson & Johnson** | Field Service Engineer (Ophthalmology), Barcelona | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Barcelona-Spain/Field-Service-Engineer--Ophthalmology---Barcelona_R-095667) |
@@ -275,15 +275,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veolia Environnement SA** | Jefe de Obra oficina técnica en instalaciones eléctricas Bergondo (M/H) | A Coruña, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000031267898) |
 | **Veolia Environnement SA** | Jefe de obra de Instalaciones Mecánicas  Bergondo (M/H) | A Coruña, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000031267655) |
 | **Veolia Environnement SA** | Operador/a de Calderas Industriales | Burgos, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000025760992) |
-| **Sopra Steria** | Open Application | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000053277038) |
-| **Sopra Steria** | Incident Manager / Change Manager (Català imprescindible) | Barcelona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000050969942) |
-| **Sopra Steria** | Planificateur Control-M | Barcelona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000035352160) |
-| **Smiths Group** | Indirect Sourcing Coordinator EMEA | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000142831224) |
-| **ServiceNow** | PS, Solution Architect ( Armis/Veza) | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000143503382) |
-| **ServiceNow** | PS, Solution Architect ( Armis/Veza) | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000143506989) |
-| **ServiceNow** | PS, Solution Architect ( Armis/Veza) | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000143502711) |
+| **Sopra Steria** | Open Application | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000053277038) |
+| **Sopra Steria** | Incident Manager / Change Manager (Català imprescindible) | Barcelona, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000050969942) |
+| **Sopra Steria** | Planificateur Control-M | Barcelona, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000035352160) |
+| **Santander** | Banquero/a Santander Private Banking Marbella | MARBELLA, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/MARBELLA/Banquero-a-Santander-Private-Banking-Marbella_Req1610692) |
+| **Santander** | Banquero/a Santander Private Banking Madrid | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madrid/Banquero-a-Santander-Private-Banking-Madrid_Req1611527) |
+| **Santander** | Openbank Brand Manager | Boadilla del Monte, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/Global-Brand-Strategy---Activation-Lead_Req1607935-1) |
+| **Smiths Group** | Indirect Sourcing Coordinator EMEA | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000142831224) |
+| **ServiceNow** | PS, Solution Architect ( Armis/Veza) | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000143503382) |
+| **ServiceNow** | PS, Solution Architect ( Armis/Veza) | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000143506989) |
+| **ServiceNow** | PS, Solution Architect ( Armis/Veza) | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/ServiceNow/744000143502711) |
 | **Red Bull** | Student Marketeer Universidad Politécnica - Ciudad Universitaria | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000028438925) |
 | **Red Bull** | Red Bull Student Marketeer Universidad Carlos III Madrid (UC3M) - Campus Getafe | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/743999988168973) |
+| **Salesforce** | Enterprise Account Executive - Qualified (Martech) | Spain - Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/Enterprise-Account-Executive---Qualified_JR358914) |
 | **Red Bull** | Student Marketeer Universidad de Salamanca | Salamanca, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000122212697) |
 | **Intuitive** | GL Accountant Iberia (Temp- 1 year) | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000137833804) |
 | **Intuitive** | da Vinci Clinical Territory Associate | Tarragona, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000144758835) |
@@ -291,36 +295,35 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eurofins** | Auditor Seguridad Alimentaria | Barcelona, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999811406191) |
 | **Eurofins** | Consultor en Seguridad Alimentaria | Barcelona, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999811400513) |
 | **Eurofins** | Comercial - Sector textil y calzado | Elche, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999771274778) |
-| **Mastercard** | Associate Managing Consultant, Advisors & Consulting Services, Marketing | Madrid | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Madrid-Spain/Associate-Managing-Consultant--Advisors---Consulting-Services--Marketing_R-290086) |
+| **AstraZeneca** | Site Admin & Event Coordinator | Spain - Barcelona, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/Site-Admin---Event-Assistant_R-256285) |
 | **EVERSANA** | Consultant, Global Market Access & Pricing (French & English speaking) | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000139351904) |
 | **EVERSANA** | Consultant, Global Market Access & Pricing | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000139342579) |
 | **EVERSANA** | Medical Content Development Manager / Team Lead | Barcelona, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/EVERSANA1/744000144312964) |
-| **Bosch Group** | Estudiante en Prácticas Departamento ATMO-2ES/ENG4 | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/743999836749737) |
-| **Bosch Group** | Estudiante en prácticas_Departamento LOW (Logística) | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/743999820974623) |
-| **Bosch Group** | Estudiante en prácticas_Departamento TEF 7 | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/743999820386042) |
-| **Veeva Systems** | University Recruiter | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/87163d3b-fcbb-4a5f-a31f-b62351cc855b) |
-| **Veeva Systems** | Team Lead - ODC | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/7186634a-ed2a-4ed5-a8da-9dc0678ded45) |
-| **Veeva Systems** | Team Manager - Implementation Services | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/707e59b2-f47c-44de-a840-9a6ddc875129) |
-| **Rover** | Trust and Safety Agent - French Speaking (Mon-Fri) | Spain | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/rover/7cd71faa-5b4b-4476-ace6-0a19623569cf) |
-| **Rover** | Trust and Safety Agent - German Speaking (Mon-Fri) | Spain | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/rover/1c334d74-861c-4872-8906-499e1d4202ce) |
+| **Bosch Group** | Estudiante en Prácticas Departamento QMM (Calidad) | Madrid, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/743999846886043) |
+| **Bosch Group** | Estudiante en Prácticas Departamento ATMO-2ES/ENG4 | Madrid, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/743999836749737) |
+| **Bosch Group** | Estudiante en prácticas_Departamento LOW (Logística) | Madrid, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/743999820974623) |
+| **Mastercard** | Associate Managing Consultant, Advisors & Consulting Services, Marketing | Madrid | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Madrid-Spain/Associate-Managing-Consultant--Advisors---Consulting-Services--Marketing_R-290086) |
+| **Veeva Systems** | University Recruiter | Spain - Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/87163d3b-fcbb-4a5f-a31f-b62351cc855b) |
+| **Veeva Systems** | Solution Consultant - Quality | Spain - Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/4f91e880-e86f-4fd8-9abd-ba70c7a756a1) |
+| **Veeva Systems** | Team Lead - ODC | Spain - Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/7186634a-ed2a-4ed5-a8da-9dc0678ded45) |
 | **AbbVie** | Copy of Delegado/a Especialista Ventas Oftalmología | Salamanca, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013635326) |
 | **AbbVie** | Delegado/a Especialista Ventas Oftalmología | Valladolid, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990013635256) |
 | **AbbVie** | MSL Parkinson | Madrid, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014098546) |
-| **ElevenLabs** | Sales Development - Southern Europe | Spain +2 more | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/66c91741-b009-48ca-8d08-fad475ffc6e6) |
+| **Rover** | Trust and Safety Agent - German Speaking (Mon-Fri) | Spain | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/rover/1c334d74-861c-4872-8906-499e1d4202ce) |
+| **Rover** | Trust and Safety Agent - French Speaking (Mon-Fri) | Spain | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/rover/7cd71faa-5b4b-4476-ace6-0a19623569cf) |
 | **Dandy** | Commercial Account Executive, SMB (SP) | Spain - Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/dandy/776278fd-cccc-4548-8778-59f29c8f3e07) |
 | **Dandy** | Customer Experience - Dental Lab Technician (Fixed) | Spain - Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/dandy/4a6f278d-e66b-4205-8556-fd6ebce2453a) |
 | **Dandy** | Customer Experience - Dental Lab Technician (Removables) | Spain - Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/dandy/25e0b16e-def5-495c-876a-554c28a4e49e) |
-| **Santander** | Banquero/a Santander Private Banking Madrid | Madrid, ES | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madrid/Banquero-a-Santander-Private-Banking-Madrid_Req1611527) |
-| **Santander** | Openbank Brand Manager | Boadilla del Monte, ES | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/Global-Brand-Strategy---Activation-Lead_Req1607935-1) |
-| **AstraZeneca** | Site Admin & Event Coordinator | Spain - Barcelona, ES | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/Site-Admin---Event-Assistant_R-256285) |
-| **Salesforce** | Enterprise Account Executive - Qualified (Martech) | Spain - Madrid, ES | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Spain---Madrid/Enterprise-Account-Executive---Qualified_JR358914) |
-| **Avis Budget Group** | HR Business Partner | Barcelona Contact Centre, ES | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Barcelona-Contact-Centre/HR-Business-Partner_R0190418) |
+| **ElevenLabs** | Sales Development - Southern Europe | Spain +2 more | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/elevenlabs/66c91741-b009-48ca-8d08-fad475ffc6e6) |
+| **Avis Budget Group** | HR Business Partner | Barcelona Contact Centre, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Barcelona-Contact-Centre/HR-Business-Partner_R0190418) |
 | **Hitachi** | HSE Specialist Service BU (F/M/D) | Madrid | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Madrid-Spain/HSE-Specialist-Service-BU--F-M-D-_R0137622) |
 | **OpenAI** | Forward Deployed Engineer - Madrid (Spanish-speaking) | Madrid | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/openai/14c5d693-7e85-4c26-8ca7-0b6f68fe6ace) |
 | **Twitch** | Strategic Partner Manager | Madrid | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/twitch/jobs/8784407002) |
 | **HP Inc** | Commercial Inside Account Executive Portugal | Sant Cugat del Valles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Commercial-Inside-Account-Executive-Portugal_3168657-1) |
 | **HP Inc** | Commercial Inside Account Executive Italy | Sant Cugat del Valles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Commercial-Inside-Account-Executive-Italy_3168650-1) |
 | **HP Inc** | Inside Sales Consultant - French Speaking | Sant Cugat del Valles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Inside-Sales-Consultant---French-Speaking_3168655-1) |
+| **GE Vernova** | Becario Materiales | Zamudio, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Zamudio/Becario-Materiales_R5051902) |
+| **GE Vernova** | Services Fullfilment Buyer | Abanto-Zierbena, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Abanto-Zierbena/Services-Fullfilment-Buyer_R5050431-1) |
 | **AstraZeneca** | Business Account Specialist Hematología - Valencia, Alicante | Spain - Field-Other | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Field-Other/Business-Account-Specialist-Hematologa---Valiente--Alicante_R-259659) |
 | **AstraZeneca** | MSL Rare Diseases | Spain - Barcelona, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/MSL-Rare-Diseases_R-258890-1) |
 | **Johnson & Johnson** | Sales Representative | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Madrid-Spain/Sales-Representative_R-098170) |
@@ -340,8 +343,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Elanco** | Sales Representative - Barcelona | ES - Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/ES---Madrid/Sales-Representative---Barcelona_R0027058-1) |
 | **Elanco** | Sales Representative | ES - Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://elanco.wd5.myworkdayjobs.com/External_Career/job/ES---Madrid/Sales-Representative_R0027056-1) |
 | **Hitachi** | PMO Business Analyst – Real Estate Capital Projects | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Madrid-Spain/PMO-Business-Analyst---Real-Estate-Capital-Projects_R0138262) |
-| **GE Vernova** | Becario Materiales | Zamudio, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Zamudio/Becario-Materiales_R5051902) |
-| **GE Vernova** | Services Fullfilment Buyer | Abanto-Zierbena, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Abanto-Zierbena/Services-Fullfilment-Buyer_R5050431-1) |
 | **ABB** | Global Project Manager (Process Automation) | Spain, ES +2 more | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Spain/Global-Project-Manager--Process-Automation-_JR00041011) |
 | **KION Group** | Logistic Operator | Pallejà | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Pallej-Spain/Logistic-Operator_JR-0095941) |
 | **Abbott** | Field Technical Engineer - EP - Sevilla | Spain - Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Spain---Madrid/Field-Technical-Engineer---EP---Sevilla_31157519) |
@@ -371,7 +372,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fresenius Medical Care** | Enfermera/o (Tenerife) | Santa Cruz de Tenerife | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Santa-Cruz-de-Tenerife-Santa-Cruz-de-Tenerife-Spain/Enfermera-o--Tenerife-_R0268840) |
 | **Johnson Controls** | Administrativo/a de Licitaciones | Las Rozas-Madrid-Spain, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Las-Rozas-Madrid-Spain/Administrativo-a-de-Licitaciones_WD30279025) |
 | **Celonis** | Executive Assistant to the Global SVP | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7985248003?gh_jid=7985248003) |
-| **Elastic** | Sales Development Representative (Arabic speaker) | Barcelona | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.elastic.co/jobs?gh_jid=8129741&gh_jid=8129741) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -451,7 +451,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1097 current opportunities from 118 companies**
+**🎯 1099 current opportunities from 118 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
